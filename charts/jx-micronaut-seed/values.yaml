@@ -33,3 +33,4 @@ readinessProbe:
 terminationGracePeriodSeconds: 10
 jx-micronaut-seed-redis:
   usePassword: false
+
