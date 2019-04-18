@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 10.27.253.181:5000/elaffray-dm/jx-micronaut-seed
+  tag: 0.0.10
   pullPolicy: IfNotPresent
 env: null
 knativeDeploy: false
