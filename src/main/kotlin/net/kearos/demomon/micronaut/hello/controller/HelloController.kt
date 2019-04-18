@@ -13,6 +13,6 @@ open class HelloController {
     @ContinueSpan
     @Produces(MediaType.TEXT_PLAIN)
     open fun index(): String {
-        return "Hello World!"
+        return "Hello World! Bis"
     }
 }
